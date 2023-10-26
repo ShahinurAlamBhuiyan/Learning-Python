@@ -22,3 +22,30 @@ print(another_course)  # copying. Python course for Beginners
 
 name = "Jennifer"
 print(name[1:-1])  # excluding -1 index. ennife
+
+# Formatted Strings !important
+# print John [Smith] is a coder.
+
+first_name = 'John'
+last_name = "Smith"
+
+# manual approach
+name = first_name+ ' [' + last_name + '] ' + 'is a coder.'
+print(name)
+
+# Formatted Strings
+name1 = f'{first_name} [{last_name}] is a coder.'
+print(name1)
+
+
+# String Methods.
+faculty = 'Computer Science'
+print(len(faculty))  # getting length.
+faculty.upper()
+faculty.lower()
+print(faculty.find('Science'))
+print(faculty.replace('Computer', 'Productive'))
+print('Computer' in faculty)  # getting boolean.
+
+
+
