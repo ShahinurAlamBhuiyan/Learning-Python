@@ -6,3 +6,6 @@ else:
     print("Loop complete.")
 
 # while loop also have else statement, if loops not enter then else executed.
+
+
+
