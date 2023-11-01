@@ -1,3 +1,5 @@
+# using if statement.
+
 weight = input("Give your weight: ")
 unit = input("(L)bs or (K)g: ")
 

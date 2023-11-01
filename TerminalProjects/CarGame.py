@@ -1,3 +1,5 @@
+# using while loop and nested condition.
+
 command = ""
 isCarStart = False
 while True:
