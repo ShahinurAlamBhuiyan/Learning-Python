@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a7fda44-4107-49cd-8b5a-6e748ce4f1d5" name="Changes" comment="" />
+    <list default="true" id="575b3569-b3c4-49a2-abd7-152b70e116be" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -23,7 +16,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2XbPpnejY8tCbPmer6N8dTg9BhJ" />
+  <component name="ProjectId" id="2XbR6rXwJCwofeekc6a8r4Arh7E" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,11 +30,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6a7fda44-4107-49cd-8b5a-6e748ce4f1d5" name="Changes" comment="" />
-      <created>1698894991668</created>
+      <changelist id="575b3569-b3c4-49a2-abd7-152b70e116be" name="Changes" comment="" />
+      <created>1698895620499</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1698894991668</updated>
+      <updated>1698895620499</updated>
     </task>
     <servers />
   </component>
