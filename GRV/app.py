@@ -9,3 +9,9 @@ for i in range(3):
     print(random.randint(10, 20))  # random value 10 to 20
 
     # 3.40.45 yt
+
+# randomly pick a leader.
+members = ['John', 'Mary', 'Bob', 'Mosh']
+
+leader = random.choice(members)
+print(leader)
